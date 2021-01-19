@@ -1,4 +1,4 @@
-# pwa-starter
+# pwa hands on project structure
 
 ## Prerequisites
 
