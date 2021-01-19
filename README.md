@@ -1,4 +1,4 @@
-# pwa hands on project structure
+# PWA hands-on project structure
 
 ## Prerequisites
 
@@ -7,8 +7,8 @@
 
 ## Install Depedencies
 
-run
-
+* Cd to project folder 
+* Run
 ```javascript
    npm i 
 ```
