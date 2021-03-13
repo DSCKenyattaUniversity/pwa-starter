@@ -13,15 +13,22 @@
 
 ``` javascript
 
-    git clone https://github.com/DSCKenyattaUniversity/pwa-starter.git
+    git clone https://github.com/DSCKenyattaUniversity/roumeo_starter_repo.git
 
 ```
 
-* Cd to project folder
+* navigate into the project folder
+
+
+``` javascript
+
+   cd roumeo_starter_repo
+
+```
 
 ## Install Depedencies
  
 * Run
 ```javascript
-   npm i 
+   npm install
 ```
